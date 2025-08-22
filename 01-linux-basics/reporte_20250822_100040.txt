@@ -1,0 +1,32 @@
+Reporte de archivos modificados en los últimos 2 días
+Directorio: /var/log
+Generado: Fri Aug 22 10:00:40 AM -05 2025
+----------------------------------------------
+2025-08-20 23:50  /var/log/sysstat/sa20
+2025-08-21 00:07  /var/log/sysstat/sar20
+2025-08-21 00:53  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/system@00063cdf11ac5e7d-a606b77e68d11153.journal~
+2025-08-21 00:53  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/user-1000@00063cdf126ab86a-f83853c27617de18.journal~
+2025-08-21 07:17  /var/log/dmesg.0
+2025-08-21 07:17  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/system@2f6205c3dceb49daa0030be56c6f5f7e-00000000000b3949-00063cdf11abb30e.journal
+2025-08-21 07:17  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/user-1000@2f6205c3dceb49daa0030be56c6f5f7e-00000000000b45c5-00063cdf126ab767.journal
+2025-08-21 11:32  /var/log/apache2/access.log
+2025-08-21 16:19  /var/log/unattended-upgrades/unattended-upgrades.log
+2025-08-21 23:20  /var/log/sysstat/sa21
+2025-08-22 07:46  /var/log/apache2/error.log
+2025-08-22 07:46  /var/log/boot.log
+2025-08-22 07:46  /var/log/dmesg
+2025-08-22 07:46  /var/log/gpu-manager.log
+2025-08-22 07:46  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/system@2f6205c3dceb49daa0030be56c6f5f7e-00000000000b4bf9-00063cdf13803655.journal
+2025-08-22 07:46  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/system@92b984a78d7f49e78aa8793743def14f-00000000000b5968-00063cf396bd06e2.journal
+2025-08-22 07:46  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/system@92b984a78d7f49e78aa8793743def14f-00000000000b65da-00063cf397c01736.journal
+2025-08-22 07:46  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/user-1000@2f6205c3dceb49daa0030be56c6f5f7e-00000000000b4bfd-00063cdf13adc7d1.journal
+2025-08-22 07:46  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/user-1000@92b984a78d7f49e78aa8793743def14f-00000000000b65d9-00063cf397be5454.journal
+2025-08-22 07:46  /var/log/wtmp
+2025-08-22 08:50  /var/log/gpu-manager-switch.log
+2025-08-22 09:22  /var/log/kern.log
+2025-08-22 09:43  /var/log/cups/access_log
+2025-08-22 09:55  /var/log/auth.log
+2025-08-22 10:00  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/system.journal
+2025-08-22 10:00  /var/log/journal/1f368cee8f824ecc874f198c2a32f322/user-1000.journal
+2025-08-22 10:00  /var/log/syslog
+2025-08-22 10:00  /var/log/sysstat/sa22
